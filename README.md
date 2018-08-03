@@ -1,8 +1,6 @@
 -----------------------------------------------------------------------------
-
 OER TECNOLOGIA LTDA
 Rio de Janeiro - Brasil
-
 -----------------------------------------------------------------------------
 - IONIC Provider to OpenStreetMaps
 -----------------------------------------------------------------------------
@@ -52,7 +50,7 @@ Developers: OER TECNOLOGIA LTDA (Luiz Olivetti e Rico Olivetti)
 - Instalation
 -----------------------------------------------------------------------------
 
-1. Create your key at maptiler site
+1. Create your key at maptiler site 
 2. Copy osmaps/osmaps.ts to provider folder
 3. Set your key at osmaps file
 4. Install OpenLayers package
