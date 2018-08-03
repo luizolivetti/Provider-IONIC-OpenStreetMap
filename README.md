@@ -3,6 +3,7 @@ OER TECNOLOGIA LTDA
 Rio de Janeiro - Brasil
 -----------------------------------------------------------------------------
 - IONIC Provider to OpenStreetMaps
+- Version 0.1a
 -----------------------------------------------------------------------------
 
 License: https://github.com/luizolivetti
